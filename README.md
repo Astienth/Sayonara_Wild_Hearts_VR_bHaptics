@@ -18,9 +18,6 @@ Steam link: https://store.steampowered.com/app/1122720/Sayonara_Wild_Hearts/
 # How to install:
 - Download the mod here : [SayonaraWildHearts_VRMod_bHaptics.zip](https://github.com/Astienth/Sayonara_Wild_Hearts_VR_bHaptics/releases/download/1.0.0/SayonaraWildHearts_VRMod_bHaptics.zip) </br>
 - Extract the content of the SayonaraWildHearts_VRMod_bHaptics.zip file into your game root folder.</br>
-- This is what your game folder should look like:</br>
-![Capture](https://github.com/user-attachments/assets/5e64576e-7c27-4618-bee1-87881a2508a3)
-- It should have a "Bepinex" folder at its root.
 - Launch the game as usual.
 Enjoy !!
 
